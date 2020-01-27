@@ -1,0 +1,3 @@
+# Property Type Declaration
+
+<!-- TODO -->
